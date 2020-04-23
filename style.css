@@ -217,6 +217,7 @@ main {
 @media (max-width: 568px) {
   .container {
     width: auto;
+    margin: auto;
   }
 
   h1 {
