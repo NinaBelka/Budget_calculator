@@ -214,7 +214,7 @@ main {
   color: darkorange;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 568px) {
   .container {
     width: auto;
   }
