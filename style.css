@@ -212,6 +212,8 @@ main {
 .operation__add:hover {
   background-color: white;
   color: darkorange;
+  border-radius: 10px;
+
 }
 
 @media (max-width: 568px) {
